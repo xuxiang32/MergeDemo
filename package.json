@@ -1,0 +1,11 @@
+{
+  "name": "mergedemo",
+  "version": "0.0.1",
+  "description": "just for a test",
+  "main": "../lib/daemon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerry",
+  "license": "ISC"
+}
